@@ -2,7 +2,7 @@
 
 This app provides Restful API, with single endpoint that filters the records.
 
-https://getir-case-emre.herokuapp.com/api/v1
+https://rocky-sands-65315.herokuapp.com/api/v1
 
 Includes API Server utilities:
 
@@ -49,7 +49,7 @@ npm run dev
 ```
 
 ### Endpoint - /records/filter POST
-https://getir-case-emre.herokuapp.com/api/v1/records/filter 
+https://rocky-sands-65315.herokuapp.com/api/v1/records/filter 
 
 You should request "post" to the api above with the required parameters.
 
